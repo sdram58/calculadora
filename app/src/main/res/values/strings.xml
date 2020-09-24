@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="mensaje_btn1">Has pulsado boton 1</string>
+
+</resources>
