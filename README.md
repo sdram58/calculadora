@@ -1,5 +1,5 @@
 # calculadora
 ## PMDM
-_Ejemplo de uso de TableLayout_
-_Ejemplo de uso de Toast_
-_3 Formas de implementar evento onClick_
+- Ejemplo de uso de TableLayout_
+- Ejemplo de uso de Toast_
+- 3 Formas de implementar evento onClick_
